@@ -1,5 +1,5 @@
 Package: stupid2
-Title: Dummy Package To Demonstrate Lexical Soping (II)
+Title: Dummy Package To Demonstrate Lexical Scoping (II)
 Version: 0.0.0.9002
 Authors@R:
     person(given = "Kosmas",
