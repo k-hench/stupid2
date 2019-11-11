@@ -4,8 +4,6 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of stupid2 is to ...
-
 ## Installation
 
 
